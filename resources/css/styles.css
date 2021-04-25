@@ -1,0 +1,36 @@
+html {
+    font-family: Helvetica, sans-serif;
+    font-size: 22px;
+    color: seashell;
+    background-color: black;
+    text-align: center;
+}
+
+body p {
+    opacity: 0.9;
+}
+
+header {
+    height: 69px;
+    border-bottom: 1px solid seashell;
+    display: fixed;
+}
+
+header img {
+    float: left;
+    height: 50px;
+    margin: 10px auto;
+}
+
+header p {
+    float: right;
+    text-decoration: underline;
+}
+
+.splash {
+    height: 700px;
+    width: 1200px;
+    background: url(file:///C:/Users/roist/git_practise/Tea-Cozy/resources/images/img-mission-background.jpg);
+    display: block;
+    margin: 0 auto;
+}
